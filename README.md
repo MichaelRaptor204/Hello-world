@@ -3,7 +3,7 @@ Just a test thing
 
 Hi I like tacos And Beans and Tacos with beans
 
-<!DOCTYPE html>
+
 <html>
 <head>Hi I Liek Tacos</head>
 <Body>
